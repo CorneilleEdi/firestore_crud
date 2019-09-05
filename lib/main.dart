@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Firebase Anonymous Auth',
+      title: 'Firebase Firestore',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         primaryColor: Color(0XFF6D3FFF),
